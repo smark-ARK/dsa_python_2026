@@ -88,3 +88,7 @@ cl.insert_last(2)
 cl.insert_last(3)
 
 print(cl)
+
+cl.remove_first()
+
+print(cl)
